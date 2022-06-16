@@ -48,4 +48,4 @@ for k in arrayHundred {
         }
     }
 print(arraySpecial2)
-print("The arraySpecial2 list contains \(arraySpecial2.count) items.")
+print("The arraySpecial2 list contains \(arraySpecial2.count) items.DONE")
